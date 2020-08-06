@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="ztuo_android.app" target="1.8" />
+      <module name="ztuo_android.kchartlib" target="1.8" />
+      <module name="ztuo_android.lib-zxing" target="1.8" />
+      <module name="ztuo_android.MPChartLib" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
