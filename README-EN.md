@@ -1,4 +1,4 @@
-# This project is the Android end of the ZTuo digital asset trading platform, which is only for learning and communication.
+## This project is the Android end of the ZTuo digital asset trading platform, which is only for learning and communication.
 
 - ## [简体中文](README.md)
 ---
